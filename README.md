@@ -1,2 +1,2 @@
 # machine-learning
-machine learning projects
+machine learning projects based on delivery duration prediction
